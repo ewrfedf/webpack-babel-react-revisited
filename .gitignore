@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+
+# VScode
+.vscode/
+
+# Logs
+*.log
